@@ -1,5 +1,5 @@
 {
-  "name": "chirp",
+  "name": "t3",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.17.1",
     "@prisma/client": "^4.11.0",
     "@t3-oss/env-nextjs": "^0.2.1",
     "@tanstack/react-query": "^4.28.0",
